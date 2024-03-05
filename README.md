@@ -30,6 +30,6 @@
 - Vue
 
 ## Contact
-15bit (AT) protonmail  
+15bit (AT) protonmail.com  
 [github](https://github.com/cruncha-cruncha)  
 	
