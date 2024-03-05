@@ -8,5 +8,29 @@
 
 [For use with a big, cheap, low fidelity wall plotter.](https://cruncha-cruncha.github.io/wall-plotter/)
 
-___
-[me](https://github.com/cruncha-cruncha)
+---
+
+## Liam Marcassa
+
+2020 - Senior Developer at [GameSheet](https://gamesheetinc.com/)  
+2019 - Intermediate Developer at [Publivate](https://publivate.com/)  
+2019 - Completed BSc at [Brock University](https://brocku.ca/), minor in Math  
+2018 - Junior Developer at [CWD](https://cwdlimited.com/)  
+2014 - Internship at [Prolucid Technologies](https://www.prolucid.ca/)  
+2013 - Internship at [Benefits by Design](https://www.bbd.ca/)
+
+
+### Main Languages
+- **React** with javascript or typescript, redux or [recoil](https://recoiljs.org/), create-react-app or Next, npm or yarn 
+- **Golang** with [gin](https://gin-gonic.com/) or [fiber](https://docs.gofiber.io/)
+
+### Working Knowledge
+- Postgres, Neo4j
+- Python, Rust
+- GCP cloud run, pub/sub, and compute
+- GTM, DataDog
+- Terraform
+- Vue
+
+[github](https://github.com/cruncha-cruncha)
+	
