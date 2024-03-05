@@ -24,7 +24,7 @@
 ### Working Knowledge
 - Postgres, Neo4j
 - Python, Rust
-- GCP cloud run, pub/sub, and compute
+- GCP monitoring, cloud run, pub/sub, and compute
 - GTM, DataDog
 - Terraform
 - Vue
