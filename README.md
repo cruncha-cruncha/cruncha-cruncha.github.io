@@ -26,7 +26,7 @@
 - Vue, Python, Rust
 - GCP monitoring, cloud run, pub/sub, and compute
 - GTM, DataDog
-- Terraform
+- Terraform, GitLab, Docker
 
 ## Contact
 markassa (AT) gmail.com  
