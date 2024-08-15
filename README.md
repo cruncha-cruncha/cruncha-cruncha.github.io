@@ -22,7 +22,7 @@
 - *Golang* with [gin](https://gin-gonic.com/) or [fiber](https://docs.gofiber.io/)
 
 ## Working Knowledge
-- Postgres, Neo4j, Redis
+- Postgres, Neo4j, Redis, Firebase
 - Vue, Python, Rust
 - GCP monitoring, cloud run, pub/sub, and compute
 - GTM, DataDog
