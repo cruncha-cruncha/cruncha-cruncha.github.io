@@ -18,7 +18,7 @@
 2013 - Internship at [Benefits by Design](https://www.bbd.ca/)
 
 ## Main Languages
-- *React* with javascript or typescript, [redux](https://redux.js.org/) or [recoil](https://recoiljs.org/), [create-react-app](https://create-react-app.dev/) or [Next](https://nextjs.org/), [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/), [Node](https://nodejs.org/en), [Express](https://expressjs.com/), various others 
+- *React* with javascript or typescript, [redux](https://redux.js.org/) or [recoil](https://recoiljs.org/), [create-react-app](https://create-react-app.dev/) or [Next](https://nextjs.org/), [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/), various others 
 - *Golang* with [gin](https://gin-gonic.com/) or [fiber](https://docs.gofiber.io/)
 
 ## Working Knowledge
