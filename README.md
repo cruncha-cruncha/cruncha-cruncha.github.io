@@ -9,6 +9,8 @@
 
 [For use with a big, cheap, low fidelity wall plotter.](https://cruncha-cruncha.github.io/wall-plotter/)
 
+[Current side project.](https://github.com/SwanDuckGoose/admin-dashboard-v1)
+
 ## Work / Education
 2020 - Senior Developer at [GameSheet](https://gamesheetinc.com/)  
 2019 - Intermediate Developer at [Publivate](https://publivate.com/)  
